@@ -24,7 +24,14 @@ Includes data ingestion, embeddings, vector search, MLflow tracking, and model s
 - Unity Catalog  
 
 ## 📂 Project Structure
-
+/notebooks
+01_ingest_data.py
+02_generate_embeddings.py
+03_build_vector_index.py
+04_llm_app.py
+/models
+/config
+/docs
 
 ## 🔧 Setup Instructions
 1. Create Databricks workspace + cluster.  
